@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "EcommercePractic.app"
-               BlueprintName = "EcommercePractic"
-               ReferencedContainer = "container:EcommercePractic.xcodeproj">
+               BuildableName = "EcommercePractice.app"
+               BlueprintName = "EcommercePractice"
+               ReferencedContainer = "container:EcommercePractice.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "EcommercePracticTests.xctest"
-               BlueprintName = "EcommercePracticTests"
-               ReferencedContainer = "container:EcommercePractic.xcodeproj">
+               BuildableName = "EcommercePracticeTests.xctest"
+               BlueprintName = "EcommercePracticeTests"
+               ReferencedContainer = "container:EcommercePractice.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "EcommercePractic.app"
-            BlueprintName = "EcommercePractic"
-            ReferencedContainer = "container:EcommercePractic.xcodeproj">
+            BuildableName = "EcommercePractice.app"
+            BlueprintName = "EcommercePractice"
+            ReferencedContainer = "container:EcommercePractice.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "EcommercePractic.app"
-            BlueprintName = "EcommercePractic"
-            ReferencedContainer = "container:EcommercePractic.xcodeproj">
+            BuildableName = "EcommercePractice.app"
+            BlueprintName = "EcommercePractice"
+            ReferencedContainer = "container:EcommercePractice.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
