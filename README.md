@@ -1,4 +1,5 @@
-## 🛍️ Ecommerce Practic  
+## 🛍️ Ecommerce Practice
+
 Technical test project developed with React Native CLI under a 5-day time limit. The goal is to build a navigation system between multiple screens and create a functional ecommerce clothing store design.
 
 ### Features  
